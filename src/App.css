@@ -1,0 +1,43 @@
+
+
+  
+
+.background{
+      background-color: rgb(198, 207, 207);
+   
+      
+      display: absolute;
+      opacity: 0.9;
+      padding-bottom: 4cm;
+      margin-left: 250px;
+      margin-top: 200px;
+      margin-right: 200px;
+}
+
+
+body{
+  background-image: url(../images/mae-mu-1LPsUqjb_Jg-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+
